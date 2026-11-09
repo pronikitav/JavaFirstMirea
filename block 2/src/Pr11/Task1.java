@@ -5,7 +5,7 @@ import java.util.GregorianCalendar;
 
 public class Task1 {
     public static void main(String[] args) {
-        String developer = "Иванов";
+        String developer = "Прокофьев";
         Calendar received = new GregorianCalendar(2026, Calendar.OCTOBER, 20, 10, 30, 0);
         Date submitted = new Date();
         SimpleDateFormat f = new SimpleDateFormat("dd.MM.yyyy HH:mm:ss");
